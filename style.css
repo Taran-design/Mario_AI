@@ -1,0 +1,30 @@
+.mario{
+width:100%;
+text-align: left;    
+}
+
+.mario h3{
+    display:inline;
+}
+
+.mario button{
+float: right;    
+}
+#START{
+font-size: 25px;    
+}
+.instruct{
+display: inline-block;    
+width:45%;
+}
+.modal-dialog{
+width: 91%;    
+}
+
+h4{
+background-color: red;
+line-height: 2;
+margin: 0px; 
+font-size: 24px; 
+color:white;  
+}
